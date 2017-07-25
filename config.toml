@@ -1,5 +1,5 @@
 title   = "Writing, Hacking, Bootstrapping"
-baseURL = "https://www.trinitytakei.io/"
+baseURL = "https://datascience.trinitytakei.io/"
 tags = ["tech", "blogging", "writing", "marketing", "lifehacking"]
 languageCode = "en-US"
 config = "config.toml"
