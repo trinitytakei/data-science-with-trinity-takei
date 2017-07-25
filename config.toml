@@ -1,5 +1,5 @@
 title   = "Writing, Hacking, Bootstrapping"
-baseURL = "http://data-science-with-trinity-takei.netlify.com/"
+baseURL = "https://datascience.trinitytakei.io"
 tags = ["tech", "blogging", "writing", "marketing", "lifehacking"]
 languageCode = "en-US"
 config = "config.toml"
