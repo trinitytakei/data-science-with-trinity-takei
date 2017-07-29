@@ -14,11 +14,12 @@ canonifyURLS = true
     favicon = "favicon.ico"
     opengraphImage = "data_science_with_trinity_takei.png"
     twitter = "TrinityTakei"
-    #github = "TrinityTakei"
+    github = "TrinityTakei"
     email = "trinity.takei@gmail.com"
     highlightJS = true
     copyright = false
     credit = false
+    customCSS = true    
 
 [[menu.main]]
     name = "Home"

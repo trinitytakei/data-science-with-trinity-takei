@@ -2,24 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing, Hacking, Bootstrapping</title>
-    <link>https://www.trinitytakei.io/</link>
+    <link>https://datascience.trinitytakei.io/</link>
     <description>Recent content on Writing, Hacking, Bootstrapping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>false</copyright>
     
-	<atom:link href="https://www.trinitytakei.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datascience.trinitytakei.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go big or Go Home OR Go Hugo</title>
-      <link>https://www.trinitytakei.io/blog/hello/</link>
+      <link>https://datascience.trinitytakei.io/blog/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/blog/hello/</guid>
+      <guid>https://datascience.trinitytakei.io/blog/hello/</guid>
       <description>This is the mandatory &amp;lsquo;Hello World&amp;rsquo; post.
 Of course, it&amp;rsquo;s not 1997 any more, so &amp;lsquo;Hello World&amp;rsquo; doesn&amp;rsquo;t cut it!
 The survey results are in: 5 out of 4 Trinity Takeis recommend blogging with Hugo%</description>
+    </item>
+    
+    <item>
+      <title>The Robots are Coming for Your Job and What to do About it</title>
+      <link>https://datascience.trinitytakei.io/blog/the-robots-are-coming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience.trinitytakei.io/blog/the-robots-are-coming/</guid>
+      <description>Two refrigerators walk into a bar&amp;hellip; Two refrigerators walk into a fully automated department store to fill themselves up. They share a flying car on their way home, exchanging recipes en route. One of them drops by for scheduled maintenance.
+ $5,000 Samsung IoT Refrigerator - Hi-res gorilla glass display. Functions include: ordering groceries, taking selfies and sending it to your phone so that you know the contents all the time   For a while it seemed like Back to the Future&amp;rsquo;s predictions would be laughably off.</description>
     </item>
     
   </channel>

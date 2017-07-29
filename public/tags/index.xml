@@ -2,30 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Writing, Hacking, Bootstrapping</title>
-    <link>https://www.trinitytakei.io/tags/</link>
+    <link>https://datascience.trinitytakei.io/tags/</link>
     <description>Recent content in Tags on Writing, Hacking, Bootstrapping</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>false</copyright>
     
-	<atom:link href="https://www.trinitytakei.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datascience.trinitytakei.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blogging</title>
-      <link>https://www.trinitytakei.io/tags/blogging/</link>
+      <title>Ai</title>
+      <link>https://datascience.trinitytakei.io/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/tags/blogging/</guid>
+      <guid>https://datascience.trinitytakei.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://datascience.trinitytakei.io/tags/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience.trinitytakei.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data_science</title>
+      <link>https://datascience.trinitytakei.io/tags/data_science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience.trinitytakei.io/tags/data_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://datascience.trinitytakei.io/tags/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience.trinitytakei.io/tags/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>https://datascience.trinitytakei.io/tags/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience.trinitytakei.io/tags/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Setup</title>
-      <link>https://www.trinitytakei.io/tags/setup/</link>
+      <link>https://datascience.trinitytakei.io/tags/setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.trinitytakei.io/tags/setup/</guid>
+      <guid>https://datascience.trinitytakei.io/tags/setup/</guid>
       <description></description>
     </item>
     

@@ -3,41 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.trinitytakei.io/tags/blogging/</loc>
+    <loc>https://datascience.trinitytakei.io/tags/ai/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/</loc>
+    <loc>https://datascience.trinitytakei.io/tags/blogging/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/categories/</loc>
+    <loc>https://datascience.trinitytakei.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/blog/hello/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.trinitytakei.io/categories/meta/</loc>
+    <loc>https://datascience.trinitytakei.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/tags/setup/</loc>
+    <loc>https://datascience.trinitytakei.io/tags/data_science/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/tags/</loc>
+    <loc>https://datascience.trinitytakei.io/categories/data_science-ai-future-robots/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trinitytakei.io/</loc>
+    <loc>https://datascience.trinitytakei.io/tags/future/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/blog/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/tags/iot/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/categories/meta/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/tags/setup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/blog/the-robots-are-coming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://datascience.trinitytakei.io/</loc>
     <priority>0</priority>
   </url>
   
